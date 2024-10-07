@@ -1,3 +1,4 @@
+
 from components.codecaesar import chiffrement, dechiffrement
 
 action = input ("Voulez vous (1) chiffrer ou (2) dechiffrer un texte ? 1 ou 2 :")
